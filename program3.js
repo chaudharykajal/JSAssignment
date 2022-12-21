@@ -1,5 +1,5 @@
 var n=10;
-if(n>0)
+if(n>=0)
 {
     console.log("NUmber is positive");
 }

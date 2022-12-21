@@ -1,4 +1,4 @@
-var n=000;
+var n=0;
 if(n>99 && n<=999)
 {
     console.log("Number is 3 digit");
